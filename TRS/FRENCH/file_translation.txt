@@ -1,0 +1,5 @@
+requins.jpg tubaroes.jpg
+fleur.jpg flor.jpg
+microondes.jpg microondas.jpg
+joint.jpg foca.jpg
+stylo.jpg caneta.jpg

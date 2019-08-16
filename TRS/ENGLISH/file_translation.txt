@@ -1,0 +1,5 @@
+sharks.jpg tubaroes.jpg
+flower.jpg flor.jpg
+microwaves.jpg microondas.jpg
+seal.jpg foca.jpg
+pen.jpg caneta.jpg
